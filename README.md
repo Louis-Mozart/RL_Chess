@@ -99,7 +99,7 @@ python main.py
 - Each user has their own:
   - Statistics (games played, won, lost, drawn)
   - AI difficulty level
-  - Trained AI model
+  - Trained an AI model
   - Win streak progress
 
 ### Selecting Users
