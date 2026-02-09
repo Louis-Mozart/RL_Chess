@@ -5,7 +5,7 @@ An intelligent chess game where the AI learns and improves through Reinforcement
 ## Features
 
 **Adaptive AI**: The AI learns from every game and gets progressively better
-📈 **Progressive Difficulty**: Win 3 games in a row, and the AI levels up (up to level 10)
+**Progressive Difficulty**: Win 3 games in a row, and the AI levels up (up to level 10)
 👤 **User Profiles**: Each player has their own profile with a personalized AI opponent
 📊 **Statistics Tracking**: Track your wins, losses, draws, and progress
 💾 **Data Persistence**: All progress is saved locally per user
