@@ -9,7 +9,7 @@ An intelligent chess game where the AI learns and improves through Reinforcement
 **User Profiles**: Each player has their own profile with a personalized AI opponent
 **Statistics Tracking**: Track your wins, losses, draws, and progress
 **Data Persistence**: All progress is saved locally per user
-🎮 **Clean GUI**: Simple and intuitive Pygame interface
+**Clean GUI**: Simple and intuitive Pygame interface
 
 ## How It Works
 
